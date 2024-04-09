@@ -1,3 +1,3 @@
-To Start project from root directort 
-1 - npm i
-2 - npm run dev
+To Start project from root directory two commands:<br />
+1 - npm i<br />
+2 - npm run dev<br />
